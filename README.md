@@ -1,4 +1,6 @@
 # What is this
+
+the chromium code base comes from [release tag 126.0.6468.1 of the chromium project](https://chromium.googlesource.com/chromium/src/+log/refs/tags/126.0.6468.1/base)
 Contains a written down set of principles and other information on //base.
 Please add to it!
 
